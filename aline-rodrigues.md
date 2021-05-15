@@ -36,7 +36,7 @@
 
 #### 3. Se sim: 
 
-##########Pegar esponja
+##### Pegar esponja 
 
 ##### Colocar detergente
 
